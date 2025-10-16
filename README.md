@@ -1,5 +1,6 @@
 # DSA4213 Assignment 3 — Parameter-Efficient Fine-Tuning with LoRA
-
+This repository and its contents were submitted as part of  
+**NUS DSA4213: Natural Language Processing for Data Science** in AY 25/26 Semester 1.  
 **Author:** Fong Kang Wei  
 **Files:**  
 - `FongKangWei_Assignment_3_Report.pdf` – Written report with methodology, results, and analysis  
@@ -26,11 +27,4 @@ Key findings:
 To recreate the environment, run:
 
 ```bash
-pip install -r requirements.txt
-
----
-
-## 📄 License
-
-This repository and its contents were submitted as part of  
-**NUS DSA4213: Natural Language Processing for Data Science** in AY 25/26 Semester 1.  
+pip install -r requirements.txt 
