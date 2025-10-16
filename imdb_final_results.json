@@ -1,0 +1,40 @@
+{
+  "Full_FT": {
+    "test_metrics": {
+      "eval_loss": 0.31185925006866455,
+      "eval_accuracy": 0.874,
+      "eval_f1": 0.8739571557155716,
+      "eval_runtime": 26.7507,
+      "eval_samples_per_second": 37.382,
+      "eval_steps_per_second": 1.196,
+      "epoch": 2.0
+    },
+    "train_time_s": 809.2106540203094,
+    "peak_mem_gb": 0.56689453125,
+    "peak_vram_gb": null,
+    "best_params": {
+      "lr": 2e-05,
+      "bs": 16,
+      "ep": 2
+    }
+  },
+  "LoRA": {
+    "test_metrics": {
+      "eval_loss": 0.3149820864200592,
+      "eval_accuracy": 0.883,
+      "eval_f1": 0.8829830345758644,
+      "eval_runtime": 25.1407,
+      "eval_samples_per_second": 39.776,
+      "eval_steps_per_second": 1.273,
+      "epoch": 3.0
+    },
+    "train_time_s": 850.0692539215088,
+    "peak_mem_gb": 0.4555816650390625,
+    "peak_vram_gb": null,
+    "best_params": {
+      "lr": 0.0005,
+      "bs": 16,
+      "ep": 3
+    }
+  }
+}
